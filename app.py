@@ -4,7 +4,7 @@ from sklearn.datasets import load_iris
 from sklearn.ensemble import RandomForestClassifier
 from IPython.display import HTML  # For animation handling
 
-# Add this at the top for animated flower
+
 st.markdown("""
 <style>
 .flower-animation {
